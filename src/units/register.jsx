@@ -10,6 +10,7 @@ function Register()
         <div style={{display: 'flex',justifyContent: 'center',alignItems: 'center',height: '100vh'}}>
         <div style={{border: '5px solid silver',display: 'flex',flexDirection: 'column',justifyContent: 'center',backgroundColor: 'palevioletred',borderRadius: '7px',gap: '5px',width: '300px',height: '500px'}}>
                         <h1 style={{fontStyle: 'oblique',color: 'white',height: '50px'}}>Register</h1>
+                        <h1 style={{fontStyle: 'oblique',color: 'white',height: '50px',fontSize:'25px'}}>WELCOME!</h1>
                         <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
         
             <div style={{display: 'flex',flexDirection: 'column',gap: '20px'}}>
