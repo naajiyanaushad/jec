@@ -14,10 +14,10 @@ function Register()
                         <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
         
             <div style={{display: 'flex',flexDirection: 'column',gap: '20px'}}>
-            <input style={{border: '2px solid gray',borderRadius: '10px',height: '30px'}} type="text" placeholder="Username" ></input>
-            <input style={{border: '2px solid gray',borderRadius: '10px',height: '30px'}} type="text" placeholder="Email"></input>
-            <input style={{border: '2px solid gray',borderRadius: '10px',height: '30px'}} type="text" placeholder="Password"></input>
-            <input style={{border: '2px solid gray',borderRadius: '10px',height: '30px'}} type="text" placeholder="Re-password"></input>
+            <input style={{border: '2px solid gray',borderRadius: '10px',height: '30px'}} type="text" placeholder="Your Username" ></input>
+            <input style={{border: '2px solid gray',borderRadius: '10px',height: '30px'}} type="text" placeholder="Enter your Email"></input>
+            <input style={{border: '2px solid gray',borderRadius: '10px',height: '30px'}} type="text" placeholder="Enter your Password"></input>
+            <input style={{border: '2px solid gray',borderRadius: '10px',height: '30px'}} type="text" placeholder="Re enter your Password"></input>
         <button style={{height: '50px', fontStyle: 'italic',color: 'grey',backgroundColor: 'white',borderRadius: '10px'}}>SIGN UP</button>
         <a href="/login" style={{fontStyle: 'italiC',color:' blue',display: 'flex',flexDirection: 'column'}}>Or LOGIN</a>
         </div>
