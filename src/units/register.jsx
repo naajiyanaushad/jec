@@ -11,7 +11,6 @@ function Register()
         <div style={{border: '5px solid silver',display: 'flex',flexDirection: 'column',justifyContent: 'center',backgroundColor: 'palevioletred',borderRadius: '7px',gap: '5px',width: '300px',height: '500px'}}>
                         <h1 style={{fontStyle: 'oblique',color: 'white',height: '50px'}}>Register</h1>
                         <h1 style={{fontStyle: 'oblique',color: 'white',height: '50px',fontSize:'x-large'}}>WELCOME!</h1>
-                        <p style={{justifyContent:'center',alignItems:'center',color:'black',fontSize:'large'}}>Please create an account</p>
                         <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
         
             <div style={{display: 'flex',flexDirection: 'column',gap: '20px'}}>
